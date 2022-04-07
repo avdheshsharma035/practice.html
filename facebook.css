@@ -1,6 +1,6 @@
 *{
-	margin: 0px;
-	font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;  
+   margin: 0px;
+   font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;  
 }
 
 .middle{
@@ -41,16 +41,16 @@ input[type="text"]{
 }
 
 .log-in{
-    width:325px;
+        width:325px;
 	margin-left: 13px;
 	height: 20px;
-    padding: 15px;
-    justify-items: center;
-    text-align: center;
+        padding: 15px;
+        justify-items: center;
+        text-align: center;
 	background-color:#166FE5;
 	margin-top: 20px;
 	border-radius: 5px;
-    font-size: 20px;
+        font-size: 20px;
 	font-weight: bolder;
 	color:white;
 }
@@ -58,18 +58,18 @@ input[type="text"]{
 .create{
 	width:180px;
 	margin-left: 100px;
-    padding: 15px;
+        padding: 15px;
 	height: 20px;
-    text-align: center;
-    justify-content: center;
+        text-align: center;
+        justify-content: center;
 	margin-top: 30px;
 	border-radius: 5px;
 	background-color: #42b72a; 
-    font-weight: 700;
-    font-size: 17px;
-    font-family: Arial, Helvetica, sans-serif;
+        font-weight: 700;
+        font-size: 17px;
+        font-family: Arial, Helvetica, sans-serif;
 	color:white;
-    outline: none;
+        outline: none;
 }
 .form a
 {
@@ -79,16 +79,16 @@ input[type="text"]{
 	color:#1877f2;
 }
 .middle img{
-   width:301px;	
-   height: 106px;
+       width:301px;	
+       height: 106px;
 }
 
 .middle h2{
 	 font-size: 28px;
-     font-family: 'Roboto condensed' , sans-serif;
-     font-weight: normal;
-     line-height: 32px;
-     margin-left: 30px;
+         font-family: 'Roboto condensed' , sans-serif;
+         font-weight: normal;
+         line-height: 32px;
+         margin-left: 30px;
 	 color: #1C1E21;
 }
 
